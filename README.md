@@ -8,10 +8,9 @@ Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, 
 
 | topic | book |
 |------|------|
-| agile-software-development | [Jenkins The Definitive Guide.pdf](agile-software-development/CI/jenkins-the-definitive-guide.pdf)
-| agile-software-development | [Continuous Delivery.pdf](agile-software-development/Continuous%20Delivery.pdf)
-| agile-software-development | [Agile Estimating and Planning.pdf](agile-software-development/Agile%20Estimating%20and%20Planning.pdf)
-| agile-software-development | [Art of Agile Development.pdf](agile-software-development/Art%20of%20Agile%20Development.pdf)
+| agile-software-development | [Agile Estimating and Planning.pdf](agile-software-development/agile-estimating-and-planning.pdf)
+| agile-software-development | [Art of Agile Development.pdf](agile-software-development/art-of-agile-development.pdf)
+| agile-software-development | [Continuous Delivery.pdf](agile-software-development/continuous-delivery.pdf)
 | angular2 | [Become Ninja Angular2.pdf](angular2/become-ninja-angular2.pdf) |
 | angular2 | [Angular 2 Test Driven Development 2nd.pdf](angular2/angular-2-test-driven-development-2nd.pdf) |
 | apis | [Designing Evolvable Web APIs with ASP.NET.pdf](apis/Designing%20Evolvable%20Web%20APIs%20with%20ASP.NET.pdf)
@@ -31,6 +30,7 @@ Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, 
 | dev-ops/docker | [The Docker and Container Ecosystem.pdf](dev-ops/docker/the-docker-and-container-ecosystem.pdf)
 | dev-ops/docker | [The Docker-book.pdf](dev-ops/docker/the-docker-book.pdf)
 | dev-ops/docker | [Using Docker.pdf](dev-ops/docker/using-docker.pdf)
+| dev-ops/jenkins | [Jenkins The Definitive Guide.pdf](dev-ops/jenkins/jenkins-the-definitive-guide.pdf)
 | dev-ops/jenkins | [Learning Continuous Integration Jenkins.epub](dev-ops/jenkins/learning-continuous-integration-jenkins.epub)
 | dev-ops/jenkins | [Pro Continuous Delivery Jenkins 2.pdf](dev-ops/jenkins/pro-continuous-delivery-jenkins-2.pdf)
 | dev-ops/k8s | [Deploying and scaling Kubernetes with Rancher.pdf](dev-ops/kubernetes/deploying-and-scaling-k8s-with-rancher.pdf)
@@ -64,11 +64,11 @@ Books about Nodejs, Angular2, Agile, Clean Code, Docker, Golang, Microservices, 
 | golang | [Go.pdf](golang/go.pdf)
 | golang | [Introducing Go.pdf](golang/introducing-go.pdf)
 | golang | [The Go Programming Language.pdf](golang/the-go-programming-language.pdf)
-| java-script | [EF JS sonsivri.pdf](java-script/EF%20JS%20sonsivri.pdf)
-| java-script | [javascript_the_good_parts.pdf](java-script/javascript_the_good_parts.pdf)
-| java-script | [Third-Party JavaScript.pdf](java-script/Third-Party%20JavaScript.pdf)
-| java-script | [expert-javascript.pdf](java-script/expert-javascript.pdf)
-| java-script | [Data Structures and Algorithms.pdf](java-script/Data%20Structures%20and%20Algorithms.pdf)
+| java-script | [Data Structures and Algorithms.pdf](java-script/data-structures-and-algorithms.pdf)
+| java-script | [Effective JavaScript.pdf](java-script/effective-js.pdf)
+| java-script | [Expert JavaScript.pdf](java-script/expert-javascript.pdf)
+| java-script | [JavaScript The Good Parts.pdf](java-script/javascript-the-good-parts.pdf)
+| java-script | [Third Party JavaScript.pdf](java-script/third-party-js.pdf)
 | linux | [Linux Pocket.pdf](linux/Linux%20Pocket.pdf)
 | linux | [Linux Bible.pdf](linux/Linux%20Bible.pdf)
 | machine learning | [introduction-machine-learning-python.pdf](machine%20learning/introduction-machine-learning-python.pdf)
